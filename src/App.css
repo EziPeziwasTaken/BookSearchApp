@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+  text-align: center;
+}
+input{
+  width: auto;
+  min-width: 300px;
+  height: 3em;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: 0;
+}
+

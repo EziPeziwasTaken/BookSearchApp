@@ -1,0 +1,38 @@
+.blok{
+    background-color: rgb(1, 169, 169);
+    color: white;
+    min-width: 20%;
+    max-width: 20%;
+    min-height: 150%;
+    max-height: 150%;
+    margin-top: 15px;
+    border-radius: 15px;
+    margin-top: 25px;
+    align-items: center;
+    box-shadow: 5px 3px 15px rgb(75, 75, 75);
+}
+.blok:hover{
+    box-shadow: 0px 0px 45px rgb(75, 75, 75);
+}
+.blok img {
+    max-width: 100%;
+    height: auto;
+    padding: auto;
+    margin: 0;
+    min-width: 100%;
+    min-height: 20rem;
+    max-height: 20rem;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.blokPopis{
+
+    width: auto;
+    height: 20%;
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    color: white;
+}
